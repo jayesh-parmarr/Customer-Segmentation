@@ -125,4 +125,4 @@ customer-segmentation-kmeans/
 Contributions are welcome! Please fork this repository and submit a pull request for any features, bug fixes, or enhancements.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
