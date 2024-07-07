@@ -91,6 +91,9 @@ The Elbow Method is implemented to determine the optimal number of clusters. The
 ## Model Evaluation
 The model is evaluated using the Silhouette Score.
 
+- Silhouette Score when `k = 5` is `0.44840809683798866`
+- Silhouette Score when `k = 6` is `0.45955989969588884`
+
 ## Results
 Elbow Method
 The optimal number of clusters is determined using the Elbow Method. The SSE is plotted for `k = 1` to `k = 10`.
