@@ -32,7 +32,7 @@ This project uses a K-means clustering algorithm to segment customers of a retai
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/customer-segmentation-kmeans.git
+    git clone https://github.com/jayesh-parmarr/Prasunet_ML_02.git
     cd customer-segmentation-kmeans
     ```
 
