@@ -1,4 +1,4 @@
-# # Prasunet_ML_02 :Customer Segmentation Using K-Means Clustering 
+# Prasunet_ML_02 :Customer Segmentation Using K-Means Clustering 
 
 This project demonstrates a K-means clustering algorithm to group customers of a retail store based on their purchase history. The dataset includes features such as gender, age, annual income, and spending score. The model is developed from scratch and includes methods to detect and remove outliers, scale features, and determine the optimal number of clusters using the Elbow Method. The results are visualized in both 2D and 3D plots.
 
